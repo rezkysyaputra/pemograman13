@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pemrog13", "pemrog13.csproj", "{7BE7A454-7290-4288-B293-154582C27610}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BE7A454-7290-4288-B293-154582C27610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BE7A454-7290-4288-B293-154582C27610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BE7A454-7290-4288-B293-154582C27610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BE7A454-7290-4288-B293-154582C27610}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84F6EE2C-EA64-4E4E-AFB3-E58A90B36178}
+	EndGlobalSection
+EndGlobal

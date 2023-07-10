@@ -1,0 +1,15 @@
+/Users/rezky/Projects/pemrog13/bin/Debug/net7.0/pemrog13
+/Users/rezky/Projects/pemrog13/bin/Debug/net7.0/pemrog13.deps.json
+/Users/rezky/Projects/pemrog13/bin/Debug/net7.0/pemrog13.runtimeconfig.json
+/Users/rezky/Projects/pemrog13/bin/Debug/net7.0/pemrog13.dll
+/Users/rezky/Projects/pemrog13/bin/Debug/net7.0/pemrog13.pdb
+/Users/rezky/Projects/pemrog13/obj/Debug/net7.0/pemrog13.csproj.AssemblyReference.cache
+/Users/rezky/Projects/pemrog13/obj/Debug/net7.0/pemrog13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rezky/Projects/pemrog13/obj/Debug/net7.0/pemrog13.AssemblyInfoInputs.cache
+/Users/rezky/Projects/pemrog13/obj/Debug/net7.0/pemrog13.AssemblyInfo.cs
+/Users/rezky/Projects/pemrog13/obj/Debug/net7.0/pemrog13.csproj.CoreCompileInputs.cache
+/Users/rezky/Projects/pemrog13/obj/Debug/net7.0/pemrog13.dll
+/Users/rezky/Projects/pemrog13/obj/Debug/net7.0/refint/pemrog13.dll
+/Users/rezky/Projects/pemrog13/obj/Debug/net7.0/pemrog13.pdb
+/Users/rezky/Projects/pemrog13/obj/Debug/net7.0/pemrog13.genruntimeconfig.cache
+/Users/rezky/Projects/pemrog13/obj/Debug/net7.0/ref/pemrog13.dll
